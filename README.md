@@ -7,7 +7,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Wybu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=giangnamG&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=wybu25&label=Profile%20Views&pretty=false" />
+</a>
 
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -17,7 +20,7 @@
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=giangnamG">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=giangnamG&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Wybu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
@@ -25,8 +28,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giangnamG">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giangnamG&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wybu">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wuby&theme=dracula"/>
         </a>
       </td>
     </tr>
